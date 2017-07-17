@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Cursos>
+    <Curso>
+        <Id>1</Id>
+        <Nome>Agronomia</Nome>
+        <Tipo>licenciatura</Tipo>
+        <URL>imgs/AGRO.jpg</URL>
+        <Page></Page>
+        <Descricao>O Curso de Agronomia é um Curso da Escola Superior Agrária do Instituto Politécnico de Beja. Teve início no ano lectivo de 2006/2007 para dar resposta às necessidades da região do Alentejo, no que respeita às alterações ocorridas na agricultura tradicional.</Descricao>
+    </Curso>
+    <Curso>
+        <Id>2</Id>
+        <Nome>Artes Plásticas e Multimedia</Nome>
+        <Tipo>licenciatura</Tipo>
+        <URL>imgs/ART.jpg</URL>
+        <Page></Page>
+        <Descricao>A Licenciatura em Artes Plásticas e Multimédia tem a duração de 3 anos e integra um Estágio Curricular em contexto profissional. Visa formar profissionais para trabalhar de forma multidisciplinar no domínio das Indústrias Criativas.</Descricao>
+    </Curso>
+    <Curso>
+        <Id>3</Id>
+        <Nome>Ciência e Tecnologia dos Alimentos</Nome>
+        <Tipo>licenciatura</Tipo>
+        <URL>imgs/CTA.jpg</URL>
+        <Page></Page>
+        <Descricao>A licenciatura em Ciência e Tecnologia de Alimentos tem uma forte coerência com a oferta formativa existente no Instituto Politécnico e em particular da Escola Superior Agrária, com os cursos de especialização tecnológica.</Descricao>
+    </Curso>
+    <Curso>
+        <Id>4</Id>
+        <Nome>Desporto</Nome>
+        <Tipo>licenciatura</Tipo>
+        <URL>imgs/DESPORTO.jpg</URL>
+        <Page></Page>
+        <Descricao>Pretende-se com este curso dotar o aluno das competências específicas fundamentais de um técnico superior na área do desporto, com um perfil orientado para a prescrição de atividades físicas e do treino, da organização e gestão desportiva, assim como ao nível do associativismo desportivo.</Descricao>
+    </Curso>
+    <Curso>
+        <Id>5</Id>
+        <Nome>Educação Básica</Nome>
+        <Tipo>licenciatura</Tipo>
+        <URL>imgs/EdBasica.jpg</URL>
+        <Page></Page>
+        <Descricao>A licenciatura em Educação Básica representa o início do processo de formação dos futuros Educadores de Infância e Professores do Ensino Básico (1º e 2º ciclos), que se completará mais tarde por meio de um de 2º ciclo de estudos (Mestrado).</Descricao>
+    </Curso>
+    <Curso>
+        <Id>6</Id>
+        <Nome>Educação e Comunicação Multimédia</Nome>
+        <Tipo>licenciatura</Tipo>
+        <URL>imgs/Ed-Multi.jpg</URL>
+        <Page></Page>
+        <Descricao>O Curso de Educação e Comunicação Multimédia confere habilitação ao grau de licenciatura/1ºciclo. Pretende formar profissionais polivalentes e multidisciplinares, com capacidades conceptuais, técnicas e práticas na área da comunicação multimédia, numa perspectiva analítica e crítica.</Descricao>
+    </Curso>
+    <Curso>
+        <Id>7</Id>
+        <Nome>Enfermagem</Nome>
+        <Tipo>licenciatura</Tipo>
+        <URL>imgs/ENF.jpg</URL>
+        <Page></Page>
+        <Descricao>O curso de Enfermagem confere o grau académico de licenciado, tem a duração de 4 anos letivos, com um total de 240 créditos. Os licenciados em Enfermagem, encontram-se habilitados para exercer a sua atividade profissional nos setores público e privado.</Descricao>
+    </Curso>
+    <Curso>
+        <Id>8</Id>
+        <Nome>Enganharia do Ambiente</Nome>
+        <Tipo>licenciatura</Tipo>
+        <URL>imgs/EA.jpg</URL>
+        <Page></Page>
+        <Descricao>A licenciatura em Engenharia do Ambiente proporciona conhecimentos científicos e tecnológicos nas áreas da prevenção, avaliação e controlo da poluição, tecnologias de tratamento (e.g. águas, resíduos sólidos, solos, ar), projeto, exploração e avaliação do funcionamento de sistemas de tratamento.</Descricao>
+    </Curso>
+    <Curso>
+        <Id>9</Id>
+        <Nome>Engenharia Informática</Nome>
+        <Tipo>licenciatura</Tipo>
+        <URL>imgs/EI.jpg</URL>
+        <Page>ei.html</Page>
+        <Descricao>A Licenciatura em Engenharia Informática está adequada ao processo de Bolonha desde 2006/2007, está acreditada pela Agência de Avaliação e Acreditação do Ensino Superior (A3ES), está reconhecida e registada na Ordem dos dos Engenheiros Técnicos (OET).</Descricao>
+    </Curso>
+    <Curso>
+        <Id>10</Id>
+        <Nome>Gestão de Empreas</Nome>
+        <Tipo>licenciatura</Tipo>
+        <URL>imgs/GE.jpg</URL>
+        <Page></Page>
+        <Descricao>Foi renovado o reconhecimento do Curso de Gestão de Empresas do Instituto Politécnico de Beja para efeitos de inscrição dos seus alunos licenciados como Técnicos Oficial de Contas.
+        A Licenciatura em Gestão de Empresas tem uma duração de 6 semestres letivos.</Descricao>
+    </Curso>
+    <Curso>
+        <Id>11</Id>
+        <Nome>Serviço Social</Nome>
+        <Tipo>licenciatura</Tipo>
+        <URL>imgs/SS.jpg</URL>
+        <Page></Page>
+        <Descricao>Em Serviço Social. Este curso forma profissionais para a intervenção social qualificada.
+        O Assistente Social trabalha junto das pessoas, famílias, grupos, organizações e comunidades no sentido do bem– estar e da justiça social. Os princípios relacionados com os direitos humanos são fundamentais para o Serviço Social.</Descricao>
+    </Curso>
+    <Curso>
+        <Id>12</Id>
+        <Nome>Solicitadoria</Nome>
+        <Tipo>licenciatura</Tipo>
+        <URL>imgs/SOL.jpg</URL>
+        <Page></Page>
+        <Descricao>Estruturada em diálogo com a respectiva Câmara, esta é uma Licenciatura Jurídica que habilita especialmente para o exercício da profissão liberal de Solicitador e também para o de funções de Jurista de Empresa e de outras Organizações, públicas ou privadas.
+        Em resposta às mais recentes Reformas da Administração Pública, da Justiça e das Empresas..</Descricao>
+    </Curso>
+    <Curso>
+        <Id>13</Id>
+        <Nome>Terapia Ocupacional</Nome>
+        <Tipo>licenciatura</Tipo>
+        <URL>imgs/TO.jpg</URL>
+        <Page></Page>
+        <Descricao>"A Terapia Ocupacional é uma profissão da área da saúde centrada no cliente, com enfoque na promoção da saúde e bem-estar, através da ocupação. O principal objectivo da Terapia Ocupacional é capacitar as pessoas a participar nas actividades da vida diária. Os Terapeutas Ocupacionais atingem resultados, prestando cuidados.</Descricao>
+    </Curso>
+    <Curso>
+        <Id>14</Id>
+        <Nome>Turismo</Nome>
+        <Tipo>licenciatura</Tipo>
+        <URL>imgs/TUR.jpg</URL>
+        <Page></Page>
+        <Descricao>Curso adequado ao processo de bolonha desde 2006/2007
+        A área de turismo integra a oferta formativa da Escola Superior de Tecnologia e Gestão desde o início do seu funcionamento (1995/1996). Desde essa altura tem sido feito um esforço com vista a ajustar o curso à realidade do sector turístico, introduzindo unidades curriculares mais próximas das necessidades do mercado de trabalho.</Descricao>
+    </Curso>
+    <Curso>
+        <Id>15</Id>
+        <Nome>Agronomia</Nome>
+        <Tipo>mestrado</Tipo>
+        <URL>imgs/AGRO_MES.jpg</URL>
+        <Page></Page>
+        <Descricao>O ciclo de estudos conducente ao grau de mestre na especialidade de Agronomia foi aprovado em 20 de maio de 2011 (Despacho N 7522/2011) e entrou em funcionamento no ano letivo de 2011/12. A agricultura da região encontra-se numa importante fase de mudança, devido ao aumento das áreas de regadio, decorrentes do Empreendimento de Fins Múltiplos do Alqueva (EFMA).</Descricao>
+    </Curso>
+    <Curso>
+        <Id>16</Id>
+        <Nome>Atividade Física e Saúde Escolar</Nome>
+        <Tipo>mestrado</Tipo>
+        <URL>imgs/AFSE.jpg</URL>
+        <Page></Page>
+        <Descricao>De acordo com o Eurobarómetro e o estudo HBSC, os jovens residentes no Alentejo são dos que apresentam menores índices de prática de atividade física e elevados índices de consumos e de alimentação pouco saudável da Europa. Trata-se de uma realidade grave e com profundas consequências no futuro das comunidades em particular com a despesa associada aos tratamentos e cuidados com a saúde.</Descricao>
+    </Curso>
+    <Curso>
+        <Id>17</Id>
+        <Nome>Contabilidade e Finanças</Nome>
+        <Tipo>mestrado</Tipo>
+        <URL>imgs/CF.jpg</URL>
+        <Page></Page>
+        <Descricao>Numa sociedade cada vez mais competitiva é imprescindível que os profissionais das diferentes áreas possuam conhecimentos avançados e se encontrem tecnicamente atualizados. Neste âmbito são de realçar as áreas contabilísticas e financeiras por desempenharem um papel extremamente relevante no funcionamento de todas as entidades, sejam estas públicas ou privadas.</Descricao>
+    </Curso>
+    <Curso>
+        <Id>18</Id>
+        <Nome>Desenvolvimento Comunitário e Empreendedorismo</Nome>
+        <Tipo>mestrado</Tipo>
+        <URL>imgs/DCE.jpg</URL>
+        <Page></Page>
+        <Descricao>O Mestrado de Desenvolvimento Comunitário e Empreendedorismo constitui-se como um curso que procura articular os conhecimentos, técnicas e práticas utilizados no Desenvolvimento Comunitário e no Empreendedorismo, com vista a uma intervenção contextualizada que promova o desenvolvimento e o bem-estar das populações e do seu ambiente visando a sustentabilidade e o empreendedorismo.</Descricao>
+    </Curso>
+    <Curso>
+        <Id>19</Id>
+        <Nome>Educação Especial - Especialização no Domínio Cognitivo e Motor</Nome>
+        <Tipo>mestrado</Tipo>
+        <URL>imgs/ES.jpg</URL>
+        <Page></Page>
+        <Descricao>Uma das principais orientações que impregnam e justificam o plano de estudos deste curso, tem a ver com a conceção adotada face à problemática das Necessidades Educativas Especiais e da Educação Especial.</Descricao>
+    </Curso>
+    <Curso>
+        <Id>20</Id>
+        <Nome>Educação Pré-Escolar e Ensino do 1º Ciclo do Ensino Básico</Nome>
+        <Tipo>mestrado</Tipo>
+        <URL>imgs/EPE.jpg</URL>
+        <Page></Page>
+        <Descricao>Este 2º ciclo de estudos, que vem dar sequência à licenciatura em Educação Básica, disponibiliza uma formação que permite, na sua conclusão, a habilitação conjunta para a docência na Educação Pré-Escolar e no 1º Ciclo do Ensino Básico, possibilitando a entrada dos estudantes na vida profissional nestes dois níveis educativos.</Descricao>
+    </Curso>
+    <Curso>
+        <Id>21</Id>
+        <Nome>Enfermage</Nome>
+        <Tipo>mestrado</Tipo>
+        <URL>imgs/ENF_MES.jpg</URL>
+        <Page></Page>
+        <Descricao>Esta oferta formativa, com as suas características de mestrado profissionalizante, entrecruza-se com a investigação e a extensão comunitária. Ao propor formar mestres em áreas especializadas de enfermagem, visamos qualificar profissionais para uma prestação de cuidados diferenciada e de qualidade acrescida às
+        populações.</Descricao>
+    </Curso>
+    <Curso>
+        <Id>22</Id>
+        <Nome>Engenharia Alimentar</Nome>
+        <Tipo>mestrado</Tipo>
+        <URL>imgs/EA_MES.jpg</URL>
+        <Page></Page>
+        <Descricao>O curso de Mestrado em Engenharia Alimentar é um curso de 120 ECTS, que decorre em 4 semestres letivos, e visa a formação de técnicos nas áreas da ciência e da engenharia com competências para avaliar as matérias-primas e interpretar os fenómenos bioquímicos, físico-químicos e microbiológicos que ocorrem nos alimentos, inovar e melhorar processos e tecnologias de produção dos alimentos.</Descricao>
+    </Curso>
+    <Curso>
+        <Id>23</Id>
+        <Nome>Engenharia de Segurança Informática</Nome>
+        <Tipo>mestrado</Tipo>
+        <URL>imgs/ESI.jpg</URL>
+        <Page></Page>
+        <Descricao>O Mestrado em Engenharia de Segurança Informática caracteriza-se por uma forte componente de ensino prático de Segurança Ofensiva.
+        Ensinam-se técnicas de ataque a sistemas informáticos, com grande componente prática, para formar profissionais com uma consciência “de facto”.</Descricao>
+    </Curso>
+    <Curso>
+        <Id>24</Id>
+        <Nome>Engenharia do Ambiente</Nome>
+        <Tipo>mestrado</Tipo>
+        <URL>imgs/EAMB_MES.jpg</URL>
+        <Page></Page>
+        <Descricao>Curso reconhecido pela Ordem dos Engenheiros e submetido à FEANI (Federação Europeia de Associações Nacionais de Engenharia) para atribuição do título EUR ING (Engenheiro Europeu). O seu novo plano de estudos foi publicado em Diário da República, 2.ª série — N.º 54 — 17 de março de 2016, Despacho n.º 3912/2016.</Descricao>
+    </Curso>
+    <Curso>
+        <Id>25</Id>
+        <Nome>Psicogerontologia Comunitária</Nome>
+        <Tipo>mestrado</Tipo>
+        <URL>imgs/PC.jpg</URL>
+        <Page></Page>
+        <Descricao>O mestrado em Psicogerontologia Comunitária, articula a Psicologia com a Gerontologia na Comunidade. Inscreve-se no código CNAF 311-Psicologia. É uma formação especializada na área do envelhecimento concebida numa perspetiva psicológica, mas, também, com uma abordagem muldidisciplinar e interventiva de forma a fazer face aos problemas do envelhecimento individual, social e comunitário, na saúde e na doença.</Descricao>
+    </Curso>
+    <Curso>
+        <Id>26</Id>
+        <Nome>Segurança e Higiene no Trabalho</Nome>
+        <Tipo>mestrado</Tipo>
+        <URL>imgs/SHT.jpg</URL>
+        <Page></Page>
+        <Descricao>O ciclo de estudos prepara graduados com conhecimentos específicos nas áreas de segurança laboral, higiene industrial e ergonomia e psicossociologia aplicada, bem como de capacidade para preparação e implementação de programas de segurança e saúde ocupacional ao nível das organizações, oferecendo a possibilidade de acesso à certificação profissional de Técnico Superior de Segurança do Trabalho.</Descricao>
+    </Curso>
+    <Curso>
+        <Id>27</Id>
+        <Nome>Agropecuária Mediterrânica</Nome>
+        <Tipo>tesp</Tipo>
+        <URL>imgs/AM.jpg</URL>
+        <Page></Page>
+        <Descricao>Esta formação de nível 5 garante a sequência de formação dos titulares do curso de Técnico de Produção Agrária referenciado como prioridade 2 (Média) a nível nacional e em particular a nível do Baixo Alentejo.</Descricao>
+    </Curso>
+    <Curso>
+        <Id>28</Id>
+        <Nome>Análises Laboratoriais</Nome>
+        <Tipo>tesp</Tipo>
+        <URL>imgs/AL.jpg</URL>
+        <Page></Page>
+        <Descricao>Esta formação de nível 5 garante a sequência de formação dos titulares do curso de Técnico de Análise Laboratorial (nível 4), referenciado com prioridade 1 no documento sobre “Áreas de Educação e Formação e Saídas Profissionais Prioritárias” da ANQEP. A necessidade deste tipo de formação, no contexto do tecido socioeconómico local, encontra-se justificada a vários níveis.</Descricao>
+    </Curso>
+    <Curso>
+        <Id>29</Id>
+        <Nome>Apoio à Infância</Nome>
+        <Tipo>tesp</Tipo>
+        <URL>imgs/AI.jpg</URL>
+        <Page></Page>
+        <Descricao>O contacto que temos tido com instituições públicas e privadas, que se dedicam ao apoio às crianças em contextos formais e não formais, revela a falta de técnicos qualificados na prestação de cuidados à infância, manifestada por creches..</Descricao>
+    </Curso>
+    <Curso>
+        <Id>30</Id>
+        <Nome>Comércio Internacional</Nome>
+        <Tipo>tesp</Tipo>
+        <URL>imgs/CI.jpg</URL>
+        <Page></Page>
+        <Descricao>A oferta de um CTeSP em Comércio Internacional é importante para a região, pois visa dar resposta às necessidades das empresas do Alentejo, em matéria de qualificações de nível superior nesta área concreta.</Descricao>
+    </Curso>
+    <Curso>
+        <Id>31</Id>
+        <Nome>Culturas Regadas</Nome>
+        <Tipo>tesp</Tipo>
+        <URL>imgs/CR.jpg</URL>
+        <Page></Page>
+        <Descricao>Esta formação de nível 5 garante a sequência de formação dos titulares do curso de Técnico de Produção Agrária referenciado como prioridade 2 (Média) a nível nacional e a nível das regiões do Baixo Alentejo e do Algarve..</Descricao>
+    </Curso>
+    <Curso>
+        <Id>32</Id>
+        <Nome>Desporto, Lazer e Bem-Estar</Nome>
+        <Tipo>tesp</Tipo>
+        <URL>imgs/DLB.jpg</URL>
+        <Page></Page>
+        <Descricao>Os profissionais deste CTSP atuarão no segmento da ocupação de tempos livres e turismo de natureza. A AICEP indica o turismo como sector estratégico para o emprego (8%) e para a requalificação profissional.</Descricao>
+    </Curso>
+    <Curso>
+        <Id>33</Id>
+        <Nome>Eletrónica e Computadores</Nome>
+        <Tipo>tesp</Tipo>
+        <URL>imgs/EC.jpg</URL>
+        <Page></Page>
+        <Descricao>O curso de Eletrónica e Computadores integra duas áreas da engenharia que são indissociáveis na maioria dos sistemas eletrónicos modernos.
+        É útil e importante para todas as entidades da indústria, incluindo as agro-indústrias, que utilizam equipamentos eletrónicos e na área emergente da «Internet of Things».</Descricao>
+    </Curso>
+    <Curso>
+        <Id>34</Id>
+        <Nome>Gestão de Organizações Sociais</Nome>
+        <Tipo>tesp</Tipo>
+        <URL>imgs/GOS.jpg</URL>
+        <Page></Page>
+        <Descricao>Na atualidade a importância do sector da Economia Social emerge, tendo-se constatado que em 2010 (INE:2013), representou 2,8% do VAB nacional, 4,7% do emprego total e 5,5% do emprego remunerado. Em 2012, os serviços de ação e solidariedade social foram a principal atividade económica gerando 41,4% VAB da Economia Social.</Descricao>
+    </Curso>
+    <Curso>
+        <Id>35</Id>
+        <Nome>Informação e Comercialização Turística</Nome>
+        <Tipo>tesp</Tipo>
+        <URL>imgs/ICT.jpg</URL>
+        <Page></Page>
+        <Descricao>A área proposta do Curso enquadra-se no domínio de «outras atividades turísticas» que, de acordo com o “Estudo Melhores competências! Melhor turismo!” da Confederação do Turismo Português, é aquela que maior diversidade apresenta ao nível dos domínios de prestação de serviço e, consequentemente, dos empregos que se lhe associam.</Descricao>
+    </Curso>
+    <Curso>
+        <Id>36</Id>
+        <Nome>Inovação e Tecnologia Alimentar</Nome>
+        <Tipo>tesp</Tipo>
+        <URL>imgs/ITA.jpg</URL>
+        <Page></Page>
+        <Descricao>Esta formação de nível 5 garante a sequência de formação dos  titulares do curso de Técnico de Inovação e Tecnologia Alimentar referenciado com prioridade 3 (Elevada) a nível nacional e nível das regiões do Baixo Alentejo e do Algarve; esta área integra-se na Linha estruturante e de especialização inteligente do PORAlentejo 2020 - Complexo Agroalimentar e Florestal.</Descricao>
+    </Curso>
+    <Curso>
+        <Id>37</Id>
+        <Nome>Olivicultura, Azeite e Azeitona de Mesa</Nome>
+        <Tipo>tesp</Tipo>
+        <URL>imgs/OAAM.jpg</URL>
+        <Page></Page>
+        <Descricao>Esta formação de nível 5 garante a sequência de formação dos  titulares do curso de Técnico de Olivicultura, Azeite e Azeitona de Mesa  referenciado com prioridade 2  a nível nacional e nível das regiões do Baixo Alentejo; esta área integra-se na Linha estruturante e de especialização inteligente do PORAlentejo 2020 - Complexo Agroalimentar e Florestal, que considera o azeite como produto de elevado valor acrescentado.</Descricao>
+    </Curso>
+    <Curso>
+        <Id>38</Id>
+        <Nome>Psicogerontologia</Nome>
+        <Tipo>tesp</Tipo>
+        <URL>imgs/PSICOGE.jpg</URL>
+        <Page></Page>
+        <Descricao>De acordo com o Plano Estratégico do IPBeja o curso de Técnico Superior Profissional de Psicogerontologia enquadra-se nas áreas de educação e formação de adultos, saúde e qualidade de vida e planeamento e animação comunitária.
+        Ao nível regional, e de acordo com as linhas estruturantes e de especialização inteligente do PoRAlentejo 2020, este curso enquadra-se na prioridade de intervenção do pacto regional para a qualificação, o emprego e a inclusão social.</Descricao>
+    </Curso>
+    <Curso>
+        <Id>39</Id>
+        <Nome>Redes e Sistemas Informáticos</Nome>
+        <Tipo>tesp</Tipo>
+        <URL>imgs/RSI.jpg</URL>
+        <Page></Page>
+        <Descricao>A área do curso 481 (ciências informáticas) é uma das áreas a privilegiar segundo o Artigo 15.º do despacho orientador de 06 de Junho de 2014 do Ministério da Educação e Ciência para abertura de vagas nos cursos de ensino superior.</Descricao>
+    </Curso>
+    <Curso>
+        <Id>40</Id>
+        <Nome>Sistemas de Proteção do Ambiente</Nome>
+        <Tipo>tesp</Tipo>
+        <URL>imgs/SPA.jpg</URL>
+        <Page></Page>
+        <Descricao>A proposta de formação apresentada resulta da reflexão do papel que os empregos "verdes" poderão ter no desenvolvimento de atividades inovadoras e sustentáveis na região do Baixo Alentejo, pretendendo, assim, contribuir para a transição da sua economia para o paradigma de baixo carbono.</Descricao>
+    </Curso>
+    <Curso>
+        <Id>41</Id>
+        <Nome>Som e Imagem</Nome>
+        <Tipo>tesp</Tipo>
+        <URL>imgs/SI.jpg</URL>
+        <Page></Page>
+        <Descricao>A formação de técnicos em SOM e IMAGEM potenciará o aproveitamento das oportunidade sugeridas na Análise SWOT do crescimento inteligente pela existência do SRTT, e do seu potencial de IDTeI na medida em que estes profissionais poderão contribuir para a mediatização de conteúdos de carácter científico, cultural e patrimonial..</Descricao>
+    </Curso>
+    <Curso>
+        <Id>42</Id>
+        <Nome>Tecnologias Web e Dispositivos Móveis</Nome>
+        <Tipo>tesp</Tipo>
+        <URL>imgs/TWDM.jpg</URL>
+        <Page></Page>
+        <Descricao>A área do curso 481 (ciências informáticas) é uma das áreas a privilegiar segundo o Artigo 15.º do despacho orientador de 06 de Junho de 2014 do Ministério da Educação e Ciência para abertura de vagas nos cursos de ensino superior.
+        A área do curso é útil a todas as entidades com presença na internet ou que pretendam estender a mesma aos dispositivos móveis (telemóveis, tablets, etc).</Descricao>
+    </Curso>
+    <Curso>
+        <Id>43</Id>
+        <Nome>Viticultura e Enologia</Nome>
+        <Tipo>tesp</Tipo>
+        <URL>imgs/VE.jpg</URL>
+        <Page></Page>
+        <Descricao>Esta formação de nível 5 garante a sequência de formação dos  titulares do curso de Técnico de Viticultura e Enologia  referenciado co prioridade 3 (Elevada) a nível nacional e nível das regiões do Baixo Alentejo e do Algarve;</Descricao>
+    </Curso>
+    <Curso>
+        <Id>44</Id>
+        <Nome>Turismo Industrial</Nome>
+        <Tipo>pos</Tipo>
+        <URL>imgs/TURI.jpg</URL>
+        <Page></Page>
+        <Descricao>O Turismo Industrial constitui uma forma de turismo cultural, cujo objetivo principal é promover o património industrial (o antigo e o atual) englobando as deslocações motivadas pelo interesse sobre empresas industriais e logísticas, atividades piscatórias, indústrias agroalimentares, oficinas e atividades artesanais, museus, entre outras.</Descricao>
+    </Curso>
+</Cursos>

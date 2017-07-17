@@ -1,0 +1,271 @@
+body{
+	font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.head-section{
+	max-height: 170px;
+	min-height: 140px;
+	height: 100%;
+	width: 100%;
+	background: url(https://www.wired.com/wp-content/uploads/2014/07/university-students.jpg) no-repeat center center scroll;
+	background-size: cover;
+}
+
+.head-section h1{
+	padding-top: 60px;
+	font-size: 55px;
+}
+
+#wrap {
+	margin-top: 60px;
+ 	min-height: 70%;
+  	/* equal to footer height */
+}
+
+#wrap:after {
+  content: "";
+  display: block;
+}
+
+#filter {
+	margin: 0px 0 30px; 0;
+	background-color: #e6e6e6;
+	color: black;
+	text-align: left;
+	padding: 20px 0 10px 50px;
+	max-width: 350px;
+	width: 100%;
+}
+
+#filter .menu {
+	margin-left: 50px;
+	cursor: pointer;
+	font-weight: lighter;
+	padding: 5px;
+	margin-bottom: 0px;
+	font-size: 15px;
+}
+
+#filter .divider {
+	border-top: 1px solid #2b2b2b;
+	width:85%;
+	margin-left: -4px;
+}
+
+#filter p {
+	color: #303030;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+
+.divs{
+	margin-left: -50px;
+	cursor: pointer;
+}
+
+.divs:hover{
+	background-color: lightgrey;
+	color: #303030;
+}
+
+.color {
+	background-color: #83a43e;
+}
+
+.divs:active{
+	background-color: #303030;
+}
+
+#filter .menu:active {
+	color: #e6e6e6;
+}
+
+.card-img-top{
+	max-width: 	100%;
+	max-height: 100%;
+}
+
+.card-block{
+	padding: 10px;
+	border: 0.5px solid grey;
+	border-radius: 0px 0px 5px 5px;
+}
+
+.card-block h4{
+	max-width: 300px;
+	color: #303030;
+  	text-shadow: none;
+  	font-size: 15px;
+  	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+.card-block p{
+	height: 100px;
+	color: #303030;
+  	font-size: 13px;
+  	overflow: hidden;
+  	text-align: justify;
+}
+
+.card{
+	margin-bottom: 30px;
+}
+
+.btn-primary{
+	background-color: #a4ce4e;
+	border: #83a43e;
+}
+
+.btn-primary:hover{
+	background-color: #83a43e;
+}
+
+footer {
+	border-top: 1px solid #9c9c9c;
+	margin-top: 20px;
+}
+
+footer p {
+    margin: 0 auto;
+    float:left;
+    font-size: 13px;
+}
+
+@media screen and (min-width:769px) and (max-width: 1024px) {
+	.head-section h1{
+		padding-top: 85px;
+		white-space: pre;
+		font-size: 50px;
+	}
+
+	#filter{
+		margin: 60px 0 0 ;
+		max-width: 685px;
+		width: 100%;
+	}
+
+	#filter p{
+		text-align: center;
+		margin-left: -50px;
+		font-size: 25px; 
+	}
+
+	#filter .menu {
+		text-align: center;
+		margin-left: 0px;
+		font-size: 20px;
+	}	
+
+	#cursos{
+		margin: 60px 0 0 0px;
+		width: 100%;
+	}
+
+	#curso{
+		max-width: 700px;
+		width: 100%;
+	}
+
+	textarea {
+		font-size: 18px;
+		text-align: left;
+		max-width: 350px;
+		margin-bottom: 0px;
+	}
+
+	.more {
+		display: none;
+	}
+}
+
+@media only screen and (min-width:321px) and (max-width: 480px) {
+	.head-section{
+		max-height: 135px;
+	}
+
+	.head-section h1{
+		padding-top: 70px;
+		font-size: 40px;
+	}
+
+	#filter{
+		margin: 0px 0 0 ;
+		max-width: 330px;
+		width: 100%;
+	}
+
+	#cursos{
+		margin: 40px 0 0 0px;
+		width: 100%;
+		padding-right: 0px;
+		max-width: 330px;
+	}
+
+	#curso{
+		margin-left: 10px;
+		max-width: 685px;
+		width: 100%;
+	}
+
+	.title{
+		white-space: pre;
+		float: left;
+		padding-top: 10px;	
+	}
+
+	.img{
+		max-width: 330px;
+		width: 100%;
+	}
+
+	.more{
+		display: none;
+	}
+
+	textarea {
+		margin-bottom: 0px;
+	}
+
+	hr {
+		width: 100%;
+		margin-left: 0px;
+		margin-bottom: 40px;
+	}
+}
+
+@media only screen and (min-width:569px) and (max-width: 768px) {
+	.head-section{
+		max-height: 165px;
+	}
+
+  	.head-section h1{
+		padding-top: 85px;
+		font-size: 45px;
+	}
+
+	#filter{
+		margin: 0px 0px 0 0px;
+		max-width: 610px;
+		width: 100%;
+	}
+
+	#filter p{
+		text-align: center;
+		margin-left: -50px;
+		font-size: 25px; 
+	}
+
+	#filter .menu {
+		text-align: center;
+		margin-left: 0px;
+		font-size: 20px;
+	}
+
+	#cursos {
+		margin-top: 20px;
+	}
+}
+
+

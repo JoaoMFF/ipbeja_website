@@ -1,0 +1,129 @@
+<Contactos>
+	<Escola>
+		<Id>1</Id>
+		<Nome>Escola Superior Agrária</Nome>
+		<Telf>+351 284 314 300</Telf>
+		<Fax>+351 284 388 207</Fax>
+		<Morada>Rua Pedro Soares, 7800-295 Beja</Morada>
+		<Email>esa@ipbeja.pt</Email>
+		<Site></Site>
+	</Escola>
+	<Escola>
+		<Id>2</Id>
+		<Nome>Escola Superior de Educação</Nome>
+		<Telf>+351 284 315 001</Telf>
+		<Fax>+351 284 326 824</Fax>
+		<Morada>Rua Pedro Soares, 7800-295 Beja</Morada>
+		<Email>ese@ipbeja.pt</Email>
+		<Site></Site>
+	</Escola>
+	<Escola>
+		<Id>3</Id>
+		<Nome>Escola Superior de Saúde</Nome>
+		<Telf>+351 284 313 280</Telf>
+		<Fax>+351 284 329 411</Fax>
+		<Morada>Rua Dr. José Correia Maltez, 7800-111 Beja</Morada>
+		<Email>ess@ipbeja.pt</Email>
+		<Site></Site>
+	</Escola>
+	<Escola>
+		<Id>4</Id>
+		<Nome>Escola Superior de Tecnologia e Gestão</Nome>
+		<Telf>+351 284 311 540</Telf>
+		<Fax>+351 284 361 326</Fax>
+		<Morada>Rua Pedro Soares, 7800-295 Beja</Morada>
+		<Email>estig@ipbeja.pt</Email>
+		<Site></Site>
+	</Escola>
+	<Apoio>
+		<Id>5</Id>
+		<Nome>Museu Botânico</Nome>
+		<Telf>+351 284 314 300</Telf>
+		<Fax>+351 284 388 207</Fax>
+		<Morada>Escola Superior Agrária de Beja, Apartado 6158, 7801-908 Beja</Morada>
+		<Email>museu.esa@ipbeja.pt</Email>
+		<Site></Site>
+	</Apoio>
+	<Apoio>
+		<Id>6</Id>
+		<Nome>Biblioteca</Nome>
+		<Telf>+351 284 315 000</Telf>
+		<Fax>+351 284 389 835</Fax>
+		<Morada>Serviços Comuns I, Rua Pedro Soares, 7800-295 Beja</Morada>
+		<Email>biblioteca@ipbeja.pt</Email>
+		<Site></Site>
+	</Apoio>
+	<Apoio>
+		<Id>7</Id>
+		<Nome>Centro de Transferência de Conhecimento</Nome>
+		<Telf>+351 284 314 400</Telf>
+		<Fax>+351 284 314 401</Fax>
+		<Morada>Rua Pedro Soares, 7800-295 Beja</Morada>
+		<Email>ctc@ipbeja.pt</Email>
+		<Site></Site>
+	</Apoio>
+	<Departamento>
+		<Id>8</Id>
+		<Nome>Departamento de Artes, Humanidades e Desporto</Nome>
+		<Telf>+351 284 314 400</Telf>
+		<Director>Prof. Luís Manuel da Cruz Murta</Director>
+		<Morada>Campus do Instituto Politécnico de Beja</Morada>
+		<Site></Site>
+	</Departamento>
+	<Departamento>
+		<Id>9</Id>
+		<Nome>Departamento de Biociências</Nome>
+		<Telf>+351 284 314 400</Telf>
+		<Director>Prof. Pedro Oliveira e Silva</Director>
+		<Morada>Campus do Instituto Politécnico de Beja</Morada>
+		<Site></Site>
+	</Departamento>
+	<Departamento>
+		<Id>10</Id>
+		<Nome>Departamento de Ciências Empresariais</Nome>
+		<Telf>+351 284 314 400</Telf>
+		<Director>Prof. Fernando José Nunes Teixeira</Director>
+		<Morada>Campus do Instituto Politécnico de Beja</Morada>
+		<Site></Site>
+	</Departamento>
+	<Departamento>
+		<Id>11</Id>
+		<Nome>Departamento de Educação e Ciências Sociais e do Comportamento</Nome>
+		<Telf>+351 284 314 400</Telf>
+		<Director>Prof. José António Orta da Encarnação</Director>
+		<Morada>Campus do Instituto Politécnico de Beja</Morada>
+		<Site></Site>
+	</Departamento>
+	<Departamento>
+		<Id>12</Id>
+		<Nome>Departamento de Engenharia</Nome>
+		<Telf>+351 284 314 400</Telf>
+		<Director>Profª. Elsa da Piedade Chinita Soares Rodrigue</Director>
+		<Morada>Campus do Instituto Politécnico de Beja</Morada>
+		<Site></Site>
+	</Departamento>
+	<Departamento>
+		<Id>13</Id>
+		<Nome>Departamento de Matemática e Ciências Físicas</Nome>
+		<Telf>+351 284 314 400</Telf>
+		<Director>Profª. Maria Manuela Azevedo</Director>
+		<Morada>Campus do Instituto Politécnico de Beja</Morada>
+		<Site></Site>
+	</Departamento>
+	<Departamento>
+		<Id>14</Id>
+		<Nome>Departamento de Saúde</Nome>
+		<Telf>+351 284 314 400</Telf>
+		<Director>Profª. Ana Maria Grego Dias Sobral Canhestro</Director>
+		<Morada>Campus do Instituto Politécnico de Beja</Morada>
+		<Site></Site>
+	</Departamento>
+	<Departamento>
+		<Id>14</Id>
+		<Nome>Departamento de Tecnologias e Ciências Aplicadas</Nome>
+		<Telf>+351 284 314 400</Telf>
+		<Director>Profª. Silvina Ferro Palma</Director>
+		<Morada>Campus do Instituto Politécnico de Beja</Morada>
+		<Site></Site>
+	</Departamento>
+</Contactos>
