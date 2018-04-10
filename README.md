@@ -1,5 +1,5 @@
 
-# Attendance Register
+# Polytechnic Institute of Beja Website
 
 Project done for an assignment for the University.
 
